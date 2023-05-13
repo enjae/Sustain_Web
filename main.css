@@ -377,7 +377,10 @@ form.responsive_one_line button {
     padding: 0 0;
     background: #62AC8A no-repeat center center;
 }
-
+form.responsive_one_line button a{
+  color: #fff;
+  text-decoration: double;
+}
 
 
 form.responsive_one_line.border_radius_top_left input, form.responsive_one_line.border_radius_left input, form.responsive_one_line.border_radius_top input, form.responsive_one_line.border_radius input {
