@@ -4,7 +4,7 @@
 
 ## Description
 
-Sustain Web is an environmental impact calculator similar to Ecometer. It analyzes web pages based on data center locations, sub-sea cable length, and page transfer size to assess their environmental impact.
+Sustain Web is an environmental impact calculator for websites. It analyzes web pages based on data center locations, sub-sea cable length, and page transfer size to assess their environmental impact.
 
 ## Key Features
 
@@ -18,7 +18,7 @@ Sustain Web is an environmental impact calculator similar to Ecometer. It analyz
 
 ## How to Use
 
-1. Enter the required data, such as data center location, sub-sea cable length, and page transfer size.
+1. Enter the url.
 
 2. Click the "Calculate Impact" button to generate the environmental impact assessment.
 
